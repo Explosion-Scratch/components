@@ -1,5 +1,7 @@
-# Svelte Components
-Svelte components that I made - Open sourced! :tada:
+<h1 align=center>Svelte Components</h1>
+<div align="center"><img width="600" src="https://user-images.githubusercontent.com/61319150/168413122-60e24b82-8a9b-4dd6-bc60-b4e44f0d5427.png" align=center/></div>
+<div align=center><i align=center>Svelte components that I made - Open sourced! :tada:</i></div>
+
 
 ## License
 
